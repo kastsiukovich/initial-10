@@ -1,0 +1,30 @@
+body {
+   background-color: black;
+}
+h1,
+table {
+   color: white;
+}
+
+.card {
+   max-width: 400px;
+   margin: 0 auto;
+   color: white;
+}
+
+#switcher {
+   padding-top: 15px;
+   width: 100%;
+   text-align: right;
+   color: white;
+}
+
+#switcher img {
+   width: 30px;
+   margin-right: 40px;
+   background-color: white;
+}
+
+#change-switcher {
+   cursor: pointer;
+}
